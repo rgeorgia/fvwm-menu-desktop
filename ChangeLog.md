@@ -1,4 +1,4 @@
-Modification History
+# Modification History
 
 Changed on 06/01/20 by Dominique Michel:
 - Fix converting of multi-images icon files;

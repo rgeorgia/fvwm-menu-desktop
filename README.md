@@ -12,3 +12,4 @@ AddToMenu "XDGMenu" "XDGMenu" Title
 ```
 
 I'm going to try to rewrite fvwm-menu-desktop so that at least it works for NetBSD
+
